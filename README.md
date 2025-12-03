@@ -530,8 +530,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Research Fellow, Department of Neuroradiology  
 WVU Medicine
 
-- Email: ahmed.azzam@wvumedicine.org
-- GitHub: [@ahmedyazzam](https://github.com/ahmedyazzam)
+- Email: ahmed.azzam@hsc.wvu.edu
+- GitHub: [@drazzam](https://github.com/drazzam)
 
 ---
 
