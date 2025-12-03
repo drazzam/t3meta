@@ -517,12 +517,6 @@ The methodological foundations of T3-Meta draw from:
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
 **Ahmed Y. Azzam, MD, MEng, DSc(h.c.), FRCP**
