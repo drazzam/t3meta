@@ -70,7 +70,7 @@ This approach unifies evidence from RCTs, observational studies, and target tria
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/t3meta.git
+git clone https://github.com/drazzam/t3meta.git
 cd t3meta
 pip install -e .
 ```
@@ -485,7 +485,7 @@ Contributions are welcome! Please follow these steps:
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/t3meta.git
+git clone https://github.com/drazzam/t3meta.git
 cd t3meta
 pip install -e ".[dev]"
 pytest tests/
@@ -503,7 +503,7 @@ If you use T3-Meta in your research, please cite:
   title = {T3-Meta: Target Trial-Centric Meta-Analysis Framework},
   version = {1.0.0},
   year = {2025},
-  url = {https://github.com/yourusername/t3meta}
+  url = {https://github.com/drazzam/t3meta}
 }
 ```
 
