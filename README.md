@@ -511,9 +511,9 @@ If you use T3-Meta in your research, please cite:
 
 The methodological foundations of T3-Meta draw from:
 
-- Hernán MA, Robins JM. Using Big Data to Emulate a Target Trial When a Randomized Trial Is Not Available. *Am J Epidemiol*. 2016.
-- Turner RM, et al. Predicting the extent of heterogeneity in meta-analysis. *Stat Med*. 2012.
-- Rhodes KM, et al. Predictive distributions were developed for the extent of heterogeneity in meta-analyses of continuous outcome data. *J Clin Epidemiol*. 2015.
+- Hernán MA, Robins JM. Using Big Data to Emulate a Target Trial When a Randomized Trial Is Not Available. Am J Epidemiol. 2016 Apr 15;183(8):758-64. doi: 10.1093/aje/kwv254. Epub 2016 Mar 18. PMID: 26994063; PMCID: PMC4832051.
+- Turner RM, Davey J, Clarke MJ, Thompson SG, Higgins JP. Predicting the extent of heterogeneity in meta-analysis, using empirical data from the Cochrane Database of Systematic Reviews. Int J Epidemiol. 2012 Jun;41(3):818-27. doi: 10.1093/ije/dys041. Epub 2012 Mar 29. PMID: 22461129; PMCID: PMC3396310.
+- Rhodes KM, Turner RM, Higgins JP. Predictive distributions were developed for the extent of heterogeneity in meta-analyses of continuous outcome data. J Clin Epidemiol. 2015 Jan;68(1):52-60. doi: 10.1016/j.jclinepi.2014.08.012. Epub 2014 Oct 7. PMID: 25304503; PMCID: PMC4270451.
 
 ---
 
